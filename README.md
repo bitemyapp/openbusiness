@@ -6,4 +6,4 @@ With that in mind,
 
 # I AM NOT A LAWYER
 
-No warranty is made by myself or anybody else contributing to this repo that any of the facts therein or factual, accurate, or will hold up in a court of law. You're sticking your head under the guillotine if you use anything from this repo without running it by a lawyer or accountant. Also, everything is written with the assumption that it's US law. I don't know anything else. I barely know US law as it is.
+No warranty is made by myself or anybody else contributing to this repo that any of the facts therein or factual, accurate, or will hold up in a court of law. You're sticking your head under the guillotine if you use anything from this repo without running it by a lawyer or accountant. Also, everything is written with the assumption that it's US law. I don't know anything else. I barely know US law as it is. I'm just a programmer!

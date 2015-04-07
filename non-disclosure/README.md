@@ -8,6 +8,6 @@ Try to keep it to trade secrets, patentable inventions, etc.
 
 # Guidelines for people presented with an NDA
 
-Always refuse if someone asks you to sign an NDA before hearing their idea. NDAs are for people with real IP to protect, they're more reasonable if you're contracting with a large corporation and the deal includes payment.
+Refuse if someone asks you to sign an NDA before hearing their idea. NDAs are for people with real IP to protect, they're more reasonable if you're contracting with a large corporation and the deal includes payment.
 
-Always refuse an NDA that has a non-compete attached unless the non-compete was mentioned upfront and consideration is attached. This is firmly, "refuse outright or get a lawyer to make it palatable". If they refuse to compensate you for the period of the non-compete or to deal with a lawyer, walk.
+Refuse an NDA that has a non-compete attached unless the non-compete was mentioned upfront and consideration is attached. This is firmly, "refuse outright or get a lawyer to make it palatable". If they refuse to compensate you for the period of the non-compete or to deal with a lawyer, walk.

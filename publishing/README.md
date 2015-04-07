@@ -2,6 +2,9 @@
 
 Most of the text is written with authors in mind.
 
+## Advance
+
+A better way to think about the advance is not as a way to pay your rent while writing the book, but rather as a financial incentive to make certain the o
 ## Revenue vs. profit
 
 Beware publishing agreements whose royalty assignments are based on profit rather than revenue.

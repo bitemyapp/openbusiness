@@ -6,6 +6,10 @@ As announced and introduced [here](http://blog.detour.com/introducing-progressiv
 
 Let's say you're the founder and you own about 50% - in a normal company, you'd get 500 megadonks. But under the Progressive Equity program, everything above the financial independence threshold gets "taxed" at 50% - you keep half, and the other half is redistributed back to employees, pro rata. So in our example, you'd get the first 50 megadonks outright and half of the other 450, for a total of 275 megadonks, and the other 225 would be redistributed to employees. So if you had 225 employees, on average each would get a megadonk. The cool thing about this is that employee percent ownership increases as the value of the company increases - natural incentive alignment.
 
+## Backtesting / running the numbers
+
+- http://kapuno.com/conversation/bblc6nqbe6qte
+
 ## Progressive Equity Program FAQ
 
 ### What are the actual mechanics of how it works?
